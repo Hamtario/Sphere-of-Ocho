@@ -9,4 +9,4 @@ input.onGesture(Gesture.Shake, function () {
     }
 })
 let Random_number = 0
-basic.showString("Sphere of Ocho")
+basic.showString("Sphere of 8")
